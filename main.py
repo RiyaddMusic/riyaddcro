@@ -828,7 +828,7 @@ func startNewGameHandler(m *tb.Message) {
 
 		menu.Inline(
 
-			menu.Row(r.URL("🤖 Botu qrupuna əlavə et", "https://t.me/CroTapBot?startgroup=a")),
+			menu.Row(r.URL("🤖 Botu qrupuna əlavə et", "https://t.me/CroAzGameBot?startgroup=a")),
 
 			menu.Row(r.URL("🇦🇿 Əsas Oyun qrupumuz", "https://t.me/RiyaddBlogg")),
 
@@ -836,9 +836,9 @@ func startNewGameHandler(m *tb.Message) {
 
 			menu.Row(r.URL("👮🏻‍♂️🐊 Mafia/Crocodile Qrupumuz", "https://t.me/disjlo")),
 
-			menu.Row(r.URL("📣 Rəsmi Kanalımız", "https://t.me/RiyaddBlog")),
+			menu.Row(r.URL("📣 Rəsmi Kanalımız", "https://t.me/RiyaddBlogg")),
 
-			menu.Row(r.URL("🖥 Rəsmi Saytımız", "http://crocodilegame.space")),
+			menu.Row(r.URL("🖥 Rəsmi Saytımız", "https://t.me/RiyaddBlog")),
 
 		)
 
@@ -1162,7 +1162,7 @@ Oyun 2 roldan ibarətdir. Aparıcı (sözü başa salan) və Oyunçu (sözü tap
 
 Oyunçuların rolu - Həmin sözü tapıb sadəcə çata yazmalıdır.
 
-Bizim Rəsmi qrupumuz - @CrocodileGameAzerbaijan
+Bizim Rəsmi qrupumuz - @RiyaddBlogg
 
 Bot ilə problem yarandıqda qurucuya yaza bilərsiniz - @foxgowner
 
@@ -1218,13 +1218,13 @@ func helpHandler(m *tb.Message) {
 
 🙎🏻‍♀️ - https://t.me/karabakhteamm
 
-🇦🇿 Botu öz qrupuna əlavə et: https://t.me/qafqazcrobot?startgroup=a
+🇦🇿 Botu öz qrupuna əlavə et: https://t.me/CroAzGameBot?startgroup=a
 
-🇺🇸 Add bot to chat: https://t.me/qafqazcrobot?startgroup=a
+🇺🇸 Add bot to chat: https://t.me/CroAzGameBot?startgroup=a
 
-🇹🇷 Botu grubuna ekle: https://t.me/qafqazcrobot?startgroup=a
+🇹🇷 Botu grubuna ekle: https://t.me/CroAzGameBot?startgroup=a
 
-🇷🇺 Добавить бота в группу: https://t.me/qafqazcrobot?startgroup=a</b>
+🇷🇺 Добавить бота в группу: https://t.me/CroAzGameBot?startgroup=a</b>
 
 `)
 
