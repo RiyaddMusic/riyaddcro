@@ -1206,11 +1206,11 @@ func helpHandler(m *tb.Message) {
 
 💎 - @karabakhteamm
 
-🇺🇸 - @riyaddblog
+🇺🇸 - @Riyaddblogg
 
-🇹🇷 - @Riyaddblog
+🇹🇷 - @Riyaddblogg
 
-🇷🇺 - @RiyaddBlog
+🇷🇺 - @RiyaddBlogg
 
 🙋🏻‍♂️ - @Thagiyevv
 
