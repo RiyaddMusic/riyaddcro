@@ -1212,11 +1212,11 @@ func helpHandler(m *tb.Message) {
 
 🇷🇺 - @RiyaddBlog
 
-🙋🏻‍♂️ - @Thagiyevvvv
+🙋🏻‍♂️ - @Thagiyevv
 
-🔞 - https://t.me/karabakhteamm
+🔞 - https://t.me/RiyaddGames
 
-🙎🏻‍♀️ - https://t.me/karabakhteamm
+🙎🏻‍♀️ - https://t.me/KarabakhTeamm
 
 🇦🇿 Botu öz qrupuna əlavə et: https://t.me/CroAzGameBot?startgroup=a
 
