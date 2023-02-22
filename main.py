@@ -828,13 +828,13 @@ func startNewGameHandler(m *tb.Message) {
 
 		menu.Inline(
 
-			menu.Row(r.URL("🤖 Botu qrupuna əlavə et", "https://t.me/QafqazCrobot?startgroup=a")),
+			menu.Row(r.URL("🤖 Botu qrupuna əlavə et", "https://t.me/CroTapBot?startgroup=a")),
 
-			menu.Row(r.URL("🇦🇿 Əsas Oyun qrupumuz", "https://t.me/KarabakhTeamm")),
+			menu.Row(r.URL("🇦🇿 Əsas Oyun qrupumuz", "https://t.me/RiyaddBlogg")),
 
-			menu.Row(r.URL("💎 Premium Oyun qrupumuz", "https://t.me/azeqafqaz2021")),
+			menu.Row(r.URL("💎 Premium Oyun qrupumuz", "https://t.me/RiyaddBlogg")),
 
-			menu.Row(r.URL("👮🏻‍♂️🐊 Mafia/Crocodile Qrupumuz", "https://t.me/karabakhteamm")),
+			menu.Row(r.URL("👮🏻‍♂️🐊 Mafia/Crocodile Qrupumuz", "https://t.me/disjlo")),
 
 			menu.Row(r.URL("📣 Rəsmi Kanalımız", "https://t.me/RiyaddBlog")),
 
